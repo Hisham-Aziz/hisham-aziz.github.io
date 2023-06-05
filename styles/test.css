@@ -1,0 +1,19 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Castoro Titling', cursive;
+    text-align: center; color: oldlace;
+    margin: 0; padding: 20px 0; text-shadow: 3px 3px 1px black;
+}
+
+p {
+    font-family: 'Ysabeau', sans-serif; color: rgb(255, 255, 255); 
+    text-shadow: 3px 3px 3px black;
+}
+
+body {
+    background-color: dimgrey; width: 600px; margin: 0 auto; padding: 0 20px 20px 20px; border: 5px solid rgb(0, 0, 0);}
+    img {display: block; margin: 0 auto;
+    }
+
+html {
+    background-color: goldenrod;
+}
